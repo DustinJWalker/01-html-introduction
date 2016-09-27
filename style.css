@@ -90,7 +90,7 @@ ul.nav-group {
   opacity: 1;
 }
 
-.btn { display: inline-block;border: currentColor 1px solid;line-height: 1em;border-radius: 2em padding: 0.5em;color: inherit;text-decoration: none }
+.btn { display: inline-block;border: currentColor 1px solid;line-height: 1em;border-radius: 2em padding: 0.5em;color: inherit;text-decoration: none; }
 
 .hero .btn {
   margin-top: 1rem;
