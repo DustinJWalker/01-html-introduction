@@ -222,7 +222,7 @@ section--info {
   box-shadow: 0.2rem 0.1rem 0.4rem rgba(0, 0, 0, 0.4);
 }
 
-.card
+.card  {
   height: 100%;
   padding: 0.5;
   padding-bottom: 3rem;
