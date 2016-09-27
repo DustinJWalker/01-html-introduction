@@ -153,7 +153,7 @@ section--info {
 }
 
 .row__column-2-3 {
-  width: calc(100% * 2 / 3 - 2rem;
+  width: calc(100% * 2 / 3 - 2rem);
 }
 
 .section--photo {
