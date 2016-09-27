@@ -230,6 +230,6 @@ section--info {
 
 .student-fact__icon {
   display: block;
-  text-aligncenter;
+  text-align: center;
   margin-bottom: 1rem;
 }
